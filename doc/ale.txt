@@ -300,6 +300,7 @@ CONTENTS                                                         *ale-contents*
       rpmlint.............................|ale-spec-rpmlint|
     sql...................................|ale-sql-options|
       sqlfmt..............................|ale-sql-sqlfmt|
+      sqlformat...........................|ale-sql-sqlformat|
     stylus................................|ale-stylus-options|
       stylelint...........................|ale-stylus-stylelint|
     tcl...................................|ale-tcl-options|
@@ -477,7 +478,7 @@ Notes:
 * SML: `smlnj`
 * Solidity: `solhint`, `solium`
 * Stylus: `stylelint`
-* SQL: `sqlint`, `sqlfmt`
+* SQL: `sqlint`, `sqlfmt`, `sqlformat`
 * Swift: `swiftlint`, `swiftformat`
 * Tcl: `nagelfar`!!
 * Terraform: `fmt`, `tflint`
